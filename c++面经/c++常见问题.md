@@ -1136,6 +1136,7 @@ public:
 ```
 
 [https://subingwen.cn/cpp/final/#1-2-修饰类](https://subingwen.cn/cpp/final/#1-2-修饰类 "https://subingwen.cn/cpp/final/#1-2-修饰类")
+https://zhuanlan.zhihu.com/p/258383836
 
 ### Delete和Delete\[]的区别，delete\[]如何知道要delete多少次，在类的成员函数中能否Delete This？
 
